@@ -175,7 +175,6 @@ But seems like those values are the ones people like more: 42, 37, 26, 22, 16 <b
 
 ##  Power Options
 
-Credit goes to n1kobg who writed this program to merge a good power plan: <br/>
 What it does: Disable wake timers, USB Suspend setting, Controls CPU Idle, Disable Power Savings, Unpark cores and more. <br/>
 
 Open command promt and type: <br/>
