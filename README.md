@@ -20,7 +20,7 @@ This is heavily inspired by *RevisionOS* discord and Calypto's Guide.<br/>
  - [**Services**](#services)
  - [**BIOS**](#bios)
  - [Overclocks](#overclocks)
- - [Compilation of Bat Tweaks](#bat-tweaks)
+ - [Melody`s work](#melody)
  - [NVIDIA settings](#nvidia-settings)
  - [KMS activator](#kms-activator)
  - [Useful links](#useful-links)
